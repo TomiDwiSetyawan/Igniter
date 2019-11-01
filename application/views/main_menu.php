@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <body>
+    <H1 class="text-center">FORM ADD BARANG</H1>
     <div class="container mt-5">
         <div class="row">
             <div class="col-sm-3"></div>
